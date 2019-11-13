@@ -1,3 +1,4 @@
 function hideWhenClicked(event) {
-  var $target = 
+  var $target = $(event.target);
+  
 }
